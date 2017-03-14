@@ -1,0 +1,12 @@
+.icon .brand{
+	width:60px;
+	height:36px;
+	display:inline-block;
+	background-image: url('../icon/brand@2x.png');
+}
+.icon .bulletin{
+	width:44px;
+	height:24px;
+	display:inline-block;
+	background-image: url('../icon/bulletin@2x.png');
+}
